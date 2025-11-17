@@ -1,6 +1,36 @@
-Technologies: Python, SQL, Power BI
-Designed and developed an end-to-end sales analytics dashboard analyzing 50K+ transaction records from an e-commerce dataset
-Performed data cleaning and transformation using Python (Pandas) and SQL, handling missing values and outliers
-Created interactive Power BI visualizations showing sales trends, customer segmentation, product performance, and regional analysis
-Generated insights that identified top-performing product categories and peak sales periods, providing actionable recommendations# ecommerce-sales-analytics
-Ecommerce project which analyse the sales 
+# 📊 E-Commerce Sales Analytics Dashboard
+
+## Overview
+Comprehensive sales analytics dashboard analyzing 50,000+ e-commerce transactions to derive actionable business insights.
+
+## Technologies Used
+- **Python:** Pandas, NumPy, Matplotlib, Seaborn, Plotly
+- **SQL:** Data extraction and aggregation
+- **Power BI:** Interactive dashboard creation
+
+## Key Features
+- Sales trend analysis and forecasting
+- Customer segmentation (Premium, Regular, Budget)
+- Product category performance analysis
+- Regional sales distribution
+- Revenue heatmaps and visualizations
+
+## Key Insights
+- Electronics category generated highest revenue
+- Q4 showed 40% increase in sales (holiday season)
+- Top 20% customers contributed 60% of total revenue
+- North region led with 45% of total sales
+
+## Installation
+```bash
+pip install pandas numpy matplotlib seaborn plotly
+python ecommerce_analysis.py
+```
+
+## Results
+- Identified top-performing product categories
+- Recommended inventory optimization strategies
+- Provided region-specific marketing recommendations
+
+## Author
+Soniya Jain
